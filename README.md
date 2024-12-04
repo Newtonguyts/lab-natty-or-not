@@ -1,6 +1,6 @@
-# Ebook: Criação de Imagens com IA
+# Ebook: A Arte da Criação de Imagens com IA
 ## 📒 Descrição
-Este projeto consiste na criação de um ebook intitulado "Criação de Imagens com IA", que fornece um guia detalhado sobre como utilizar ferramentas de inteligência artificial para gerar imagens incríveis. O conteúdo abrange desde a introdução às principais ferramentas, técnicas de escrita de prompts, exploração de estilos artísticos, até orientações éticas e estudos de caso práticos.
+Este projeto consiste na criação de um ebook intitulado "A Arte da Criação de Imagens com IA", que fornece um guia detalhado sobre como utilizar ferramentas de inteligência artificial para gerar imagens incríveis. O conteúdo abrange desde a introdução às principais ferramentas, técnicas de escrita de prompts, exploração de estilos artísticos, até orientações éticas e estudos de caso práticos.
 Este ebook foi desenvolvido como parte do desafio de projeto do bootcamp CAIXA - IA Generativa com Microsoft Copilot, em parceria com a DIO.
 
 ## 🤖 Tecnologias Utilizadas
